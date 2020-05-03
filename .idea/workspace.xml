@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd322821-bcc2-4d95-afb7-46aebb22cb2d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bDLwnHIPaOvnkbOMlcNZA0HFlX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RectangleFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RectangleFind" />
+      <module name="RectangleFind" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RectangleFind" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd322821-bcc2-4d95-afb7-46aebb22cb2d" name="Default Changelist" comment="" />
+      <created>1588161958851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588161958851</updated>
+      <workItem from="1588161962467" duration="735000" />
+      <workItem from="1588513108227" duration="1598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="167" key="FileChooserDialogImpl" timestamp="1588163033328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588163033328" />
+    <state width="1342" height="55" key="GridCell.Tab.0.bottom" timestamp="1588524571253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="55" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588524571253" />
+    <state width="1342" height="55" key="GridCell.Tab.0.center" timestamp="1588524571253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="55" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588524571253" />
+    <state width="1342" height="55" key="GridCell.Tab.0.left" timestamp="1588524571253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="55" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588524571253" />
+    <state width="1342" height="55" key="GridCell.Tab.0.right" timestamp="1588524571253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="55" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588524571253" />
+    <state x="225" y="33" key="new project wizard" timestamp="1588163056148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588163056148" />
+  </component>
+</project>
